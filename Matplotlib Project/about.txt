@@ -1,0 +1,21 @@
+ Steps to solve -
+
+        a. Load the dataset
+        b. Clean the dataset
+        c. Understand the dataset
+        d. Identify the questions 
+        e. Visualize the dataset (EDA)
+        f. Save the plot
+
+Types of charts and their use -
+
+        a. How many movies VS TV shows -                                Bar chart
+        b. what is the % of each content rating -                       Pie chart
+        c. How many no. of releases changed over years -                Line plot
+        d. Distribution of Movie Durations -                            Histogram
+        e. Relationship b/w release year and no. of shows -             Scatter Plot (Optional)
+        f. Top 10 countries with highest number of shows -              Bar chart
+        g. Compare multiple plots together -                            Subplots
+        h. Save final charts -                                          Saving Figures
+
+
